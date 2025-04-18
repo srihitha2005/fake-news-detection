@@ -5,16 +5,6 @@ This project aims to automatically detect fake news articles using deep learning
 
 Our model uses Natural Language Processing (NLP) techniques and neural networks to classify news articles into "Fake" or "Real", trained on the publicly available ISOT dataset.
 
-## 📂 Project Structure
-
-fake-news-detection/
-│
-├── DL_PROJECT.ipynb              # Main training & evaluation notebook
-├── DL_PROJECT(DATASET).ipynb     # Data preprocessing and visualization
-├── requirements.txt              # List of Python dependencies
-├── report.pdf                    # 2-page pdf report with block diagram
-├── README.md                     # Readme file
-
 ## 💡 Problem Statement
 The rapid proliferation of fake news on digital platforms has emerged as a major concern. This fake content can mislead the public, sway political decisions, and destabilize societies. Manual fact-checking can't keep up with the volume and speed of fake news generation.
 

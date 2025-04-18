@@ -86,6 +86,7 @@ See `report.pdf` for a visual block diagram.
 ---
 
 ## 🧑‍💻 Author
-Srihitha Pulapa, CS22B2009 \\
+Srihitha Pulapa, CS22B2009 
+
 Rikitha Ravi, CS22B2045
----
+

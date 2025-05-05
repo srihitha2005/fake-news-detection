@@ -24,16 +24,16 @@ This project uses an LSTM-based deep learning model to classify news articles as
 
 - Merged title + text
 - Lowercased, removed punctuation/digits/stopwords
-- Tokenized & padded to 500 tokens
+- Tokenized using TOkensier(num_words = 20000) & padded to 100 tokens 
 
 ## 🧠 Model
 
-- Embedding (vocab=5000, dim=32)
-- LSTM (100 units)
+- Embedding (vocab=20000, dim=50)
+- Bidirectional LSTM (15 units)
 - Dense + Sigmoid  
 - Loss: Binary Crossentropy  
 - Optimizer: Adam  
-- Epochs: 5 | Batch Size: 64
+- Epochs: 10 | Batch Size: 32
 
 ## ✅ Results
 
